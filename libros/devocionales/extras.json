@@ -1,0 +1,401 @@
+{
+ "_LEEME": "Datos que se agregan a json/indice.json para cada libro (los usa la app). 'clave': el libro solo aparece después de escribir esa palabra en el buscador de la app. Los libros que NO estén acá no llevan clave.",
+ "libros": {
+  "es-alza-tus-ojos": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Alza%20tus%20Ojos.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "es-hijos-e-hijas-de-dios": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Hijos%20e%20Hijas%20de%20Dios.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "es-maranata-el-senor-viene": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Maranata%2C%20El%20Se%C3%B1or%20Viene.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "es-nuestra-elevada-vocacion": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Nuestra%20Elevada%20Vocacion.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "es-ser-semejante-a-jesus": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Ser%20Semejante%20a%20Jes%C3%BAs.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "pt-e-recebereis-poder": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/E%20Recebereis%20Poder.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "pt-jesus-meu-modelo": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Jesus%2C%20Meu%20Modelo.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "pt-maranata-o-senhor-vem": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Maranata%20%E2%80%93%20O%20Senhor%20Vem%21.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "pt-minha-consagracao-hoje": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Minha%20Consagra%C3%A7%C3%A3o%20Hoje.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "pt-olhando-para-o-alto": {
+   "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Olhando%20Para%20O%20Alto.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-from-the-heart": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_FH.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-gods-amazing-grace": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_AG.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-homeward-bound": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_HB.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-in-heavenly-places": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_HP.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-lift-him-up": {
+   "descarga": "https://m.egwwritings.org/en/book/44/info",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-maranatha": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_Mar.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-my-life-today": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_ML.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-our-high-calling": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_OHC.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-reflecting-christ": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_RC.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-sons-and-daughters-of-god": {
+   "descarga": "https://m.egwwritings.org/en/book/102/info",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-that-i-may-know-him": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_TMK.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-this-day-with-god": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_TDG.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "en-ye-shall-receive-power": {
+   "descarga": "https://media2.egwwritings.org/pdf/en_YRP.pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-come-conoscere-meglio-il-signore": {
+   "descarga": "https://m.egwwritings.org/it/book/14157/info",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-con-dio-fino-all-ultimo-giorno": {
+   "descarga": "https://media4.egwwritings.org/pdf/it_DAG(TDG).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-con-tutto-il-cuore": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_CTC(FH).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-conflitto-e-coraggio": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_CeC(CC).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-contemplare-la-vita-di-cristo": {
+   "descarga": "https://media4.egwwritings.org/pdf/it_CC(RC).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-la-mia-vita-oggi": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_MVO(ML).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-la-vittoria-di-cristo": {
+   "descarga": "https://media4.egwwritings.org/pdf/it_VC(CTr).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-maranatha": {
+   "descarga": "https://media4.egwwritings.org/pdf/it_Mar(Mar).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-nei-luoghi-celesti": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_LC(HP).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-ricevere-la-potenza-di-dio": {
+   "descarga": "https://media4.egwwritings.org/pdf/it_RPD(YRP).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-stupenda-grazia-di-dio": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_SGD(AG).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-un-appello-per-noi": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_AN(OHC).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-vivere-attraverso-la-fede": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_VAF(FLB).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "it-volgi-lo-sguardo-a-gesu": {
+   "descarga": "https://media2.egwwritings.org/pdf/it_VG(UL).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "fr-avec-dieu-chaque-jour": {
+   "descarga": "https://media4.egwwritings.org/pdf/fr_AD(ML).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "fr-levez-vos-yeux-en-haut": {
+   "descarga": "https://media2.egwwritings.org/pdf/fr_LVH(UL).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "fr-pour-mieux-connaitre-jesus-christ": {
+   "descarga": "https://media2.egwwritings.org/pdf/fr_PMC(TMK).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "fr-puissance-de-la-grace": {
+   "descarga": "https://media4.egwwritings.org/pdf/fr_PG(AG).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "fr-vous-recevrez-une-puissance": {
+   "descarga": "https://m.egwwritings.org/fr/book/2698/info",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "de-christus-ist-sieger": {
+   "descarga": "https://media4.egwwritings.org/pdf/de_CS(CTr).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  },
+  "de-das-wirken-des-heiligen-geistes": {
+   "descarga": "https://media4.egwwritings.org/pdf/de_WHG(YRP).pdf",
+   "derechos": [
+    "Ellen G. White Estate, Inc.",
+    "https://ellenwhiteaudio.org/"
+   ],
+   "editorial": "Ellen G. White Estate, Inc.",
+   "clave": "meditaciones"
+  }
+ }
+}

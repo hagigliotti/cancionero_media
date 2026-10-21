@@ -17,7 +17,13 @@
      "isbn": [],
      "paginas": 388,
      "total_dias": 365,
-     "url": "es/es-alza-tus-ojos.json"
+     "url": "es/es-alza-tus-ojos.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Alza%20tus%20Ojos.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "es-hijos-e-hijas-de-dios",
@@ -30,7 +36,13 @@
      "isbn": [],
      "paginas": 396,
      "total_dias": 365,
-     "url": "es/es-hijos-e-hijas-de-dios.json"
+     "url": "es/es-hijos-e-hijas-de-dios.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Hijos%20e%20Hijas%20de%20Dios.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "es-maranata-el-senor-viene",
@@ -43,7 +55,13 @@
      "isbn": [],
      "paginas": 396,
      "total_dias": 365,
-     "url": "es/es-maranata-el-senor-viene.json"
+     "url": "es/es-maranata-el-senor-viene.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Maranata%2C%20El%20Se%C3%B1or%20Viene.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "es-nuestra-elevada-vocacion",
@@ -56,7 +74,13 @@
      "isbn": [],
      "paginas": 390,
      "total_dias": 365,
-     "url": "es/es-nuestra-elevada-vocacion.json"
+     "url": "es/es-nuestra-elevada-vocacion.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Nuestra%20Elevada%20Vocacion.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "es-ser-semejante-a-jesus",
@@ -69,7 +93,13 @@
      "isbn": [],
      "paginas": 390,
      "total_dias": 365,
-     "url": "es/es-ser-semejante-a-jesus.json"
+     "url": "es/es-ser-semejante-a-jesus.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/sp/ellenwhite/Ser%20Semejante%20a%20Jes%C3%BAs.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     }
    ]
   },
@@ -87,7 +117,13 @@
      "isbn": [],
      "paginas": 785,
      "total_dias": 365,
-     "url": "en/en-from-the-heart.json"
+     "url": "en/en-from-the-heart.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_FH.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-gods-amazing-grace",
@@ -95,12 +131,18 @@
      "titulo": "Gods Amazing Grace",
      "autor": "Ellen G. White",
      "anio": 1973,
-     "editorial": "For more information about the author, publishers, or how you can support this",
+     "editorial": "Ellen G. White Estate, Inc.",
      "copyright": "© Copyright 2010 by the Ellen G. White Estate, Inc.",
      "isbn": [],
      "paginas": 379,
      "total_dias": 365,
-     "url": "en/en-gods-amazing-grace.json"
+     "url": "en/en-gods-amazing-grace.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_AG.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-homeward-bound",
@@ -113,7 +155,13 @@
      "isbn": [],
      "paginas": 775,
      "total_dias": 365,
-     "url": "en/en-homeward-bound.json"
+     "url": "en/en-homeward-bound.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_HB.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-in-heavenly-places",
@@ -126,7 +174,13 @@
      "isbn": [],
      "paginas": 400,
      "total_dias": 365,
-     "url": "en/en-in-heavenly-places.json"
+     "url": "en/en-in-heavenly-places.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_HP.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-lift-him-up",
@@ -139,7 +193,13 @@
      "isbn": [],
      "paginas": 771,
      "total_dias": 365,
-     "url": "en/en-lift-him-up.json"
+     "url": "en/en-lift-him-up.json",
+     "descarga": "https://m.egwwritings.org/en/book/44/info",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-maranatha",
@@ -147,12 +207,18 @@
      "titulo": "Maranatha",
      "autor": "Ellen G. White",
      "anio": 1976,
-     "editorial": "For more information about the author, publishers, or how you can support this",
+     "editorial": "Ellen G. White Estate, Inc.",
      "copyright": "© Copyright 2010 by the Ellen G. White Estate, Inc.",
      "isbn": [],
      "paginas": 381,
      "total_dias": 365,
-     "url": "en/en-maranatha.json"
+     "url": "en/en-maranatha.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_Mar.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-my-life-today",
@@ -165,7 +231,13 @@
      "isbn": [],
      "paginas": 555,
      "total_dias": 365,
-     "url": "en/en-my-life-today.json"
+     "url": "en/en-my-life-today.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_ML.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-our-high-calling",
@@ -178,7 +250,13 @@
      "isbn": [],
      "paginas": 751,
      "total_dias": 365,
-     "url": "en/en-our-high-calling.json"
+     "url": "en/en-our-high-calling.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_OHC.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-reflecting-christ",
@@ -186,12 +264,18 @@
      "titulo": "Reflecting Christ",
      "autor": "Ellen G. White",
      "anio": 1985,
-     "editorial": "This ePub publication is provided as a service of the Ellen G. White Estate. It is part",
+     "editorial": "Ellen G. White Estate, Inc.",
      "copyright": "© Copyright 2010 by the Ellen G. White Estate, Inc.",
      "isbn": [],
      "paginas": 379,
      "total_dias": 365,
-     "url": "en/en-reflecting-christ.json"
+     "url": "en/en-reflecting-christ.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_RC.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-sons-and-daughters-of-god",
@@ -204,7 +288,13 @@
      "isbn": [],
      "paginas": 464,
      "total_dias": 365,
-     "url": "en/en-sons-and-daughters-of-god.json"
+     "url": "en/en-sons-and-daughters-of-god.json",
+     "descarga": "https://m.egwwritings.org/en/book/102/info",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-that-i-may-know-him",
@@ -212,12 +302,18 @@
      "titulo": "That I May Know Him",
      "autor": "Ellen G. White",
      "anio": 1964,
-     "editorial": "Please visit the Ellen G. White Estate website for a complete list of available publications.",
+     "editorial": "Ellen G. White Estate, Inc.",
      "copyright": "© Copyright 2010 by the Ellen G. White Estate, Inc.",
      "isbn": [],
      "paginas": 377,
      "total_dias": 365,
-     "url": "en/en-that-i-may-know-him.json"
+     "url": "en/en-that-i-may-know-him.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_TMK.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-this-day-with-god",
@@ -225,12 +321,18 @@
      "titulo": "This Day With God",
      "autor": "Ellen G. White",
      "anio": 1979,
-     "editorial": "For more information about the author, publishers, or how you can support",
+     "editorial": "Ellen G. White Estate, Inc.",
      "copyright": "© Copyright 2010 by the Ellen G. White Estate, Inc.",
      "isbn": [],
      "paginas": 383,
      "total_dias": 365,
-     "url": "en/en-this-day-with-god.json"
+     "url": "en/en-this-day-with-god.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_TDG.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "en-ye-shall-receive-power",
@@ -238,12 +340,18 @@
      "titulo": "Ye Shall Receive Power",
      "autor": "Ellen G. White",
      "anio": 1995,
-     "editorial": "Please visit the Ellen G. White Estate website for a complete list of available publications.",
+     "editorial": "Ellen G. White Estate, Inc.",
      "copyright": "© Copyright 2010 by the Ellen G. White Estate, Inc.",
      "isbn": [],
      "paginas": 380,
      "total_dias": 365,
-     "url": "en/en-ye-shall-receive-power.json"
+     "url": "en/en-ye-shall-receive-power.json",
+     "descarga": "https://media2.egwwritings.org/pdf/en_YRP.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     }
    ]
   },
@@ -261,7 +369,13 @@
      "isbn": [],
      "paginas": 690,
      "total_dias": 365,
-     "url": "it/it-come-conoscere-meglio-il-signore.json"
+     "url": "it/it-come-conoscere-meglio-il-signore.json",
+     "descarga": "https://m.egwwritings.org/it/book/14157/info",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-con-dio-fino-all-ultimo-giorno",
@@ -274,7 +388,13 @@
      "isbn": [],
      "paginas": 761,
      "total_dias": 365,
-     "url": "it/it-con-dio-fino-all-ultimo-giorno.json"
+     "url": "it/it-con-dio-fino-all-ultimo-giorno.json",
+     "descarga": "https://media4.egwwritings.org/pdf/it_DAG(TDG).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-con-tutto-il-cuore",
@@ -287,7 +407,13 @@
      "isbn": [],
      "paginas": 408,
      "total_dias": 365,
-     "url": "it/it-con-tutto-il-cuore.json"
+     "url": "it/it-con-tutto-il-cuore.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_CTC(FH).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-conflitto-e-coraggio",
@@ -300,7 +426,13 @@
      "isbn": [],
      "paginas": 398,
      "total_dias": 365,
-     "url": "it/it-conflitto-e-coraggio.json"
+     "url": "it/it-conflitto-e-coraggio.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_CeC(CC).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-contemplare-la-vita-di-cristo",
@@ -313,7 +445,13 @@
      "isbn": [],
      "paginas": 1483,
      "total_dias": 364,
-     "url": "it/it-contemplare-la-vita-di-cristo.json"
+     "url": "it/it-contemplare-la-vita-di-cristo.json",
+     "descarga": "https://media4.egwwritings.org/pdf/it_CC(RC).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-la-mia-vita-oggi",
@@ -326,7 +464,13 @@
      "isbn": [],
      "paginas": 547,
      "total_dias": 365,
-     "url": "it/it-la-mia-vita-oggi.json"
+     "url": "it/it-la-mia-vita-oggi.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_MVO(ML).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-la-vittoria-di-cristo",
@@ -339,7 +483,13 @@
      "isbn": [],
      "paginas": 775,
      "total_dias": 365,
-     "url": "it/it-la-vittoria-di-cristo.json"
+     "url": "it/it-la-vittoria-di-cristo.json",
+     "descarga": "https://media4.egwwritings.org/pdf/it_VC(CTr).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-maranatha",
@@ -352,7 +502,13 @@
      "isbn": [],
      "paginas": 749,
      "total_dias": 365,
-     "url": "it/it-maranatha.json"
+     "url": "it/it-maranatha.json",
+     "descarga": "https://media4.egwwritings.org/pdf/it_Mar(Mar).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-nei-luoghi-celesti",
@@ -365,7 +521,13 @@
      "isbn": [],
      "paginas": 728,
      "total_dias": 365,
-     "url": "it/it-nei-luoghi-celesti.json"
+     "url": "it/it-nei-luoghi-celesti.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_LC(HP).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-ricevere-la-potenza-di-dio",
@@ -378,7 +540,13 @@
      "isbn": [],
      "paginas": 666,
      "total_dias": 365,
-     "url": "it/it-ricevere-la-potenza-di-dio.json"
+     "url": "it/it-ricevere-la-potenza-di-dio.json",
+     "descarga": "https://media4.egwwritings.org/pdf/it_RPD(YRP).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-stupenda-grazia-di-dio",
@@ -391,7 +559,13 @@
      "isbn": [],
      "paginas": 763,
      "total_dias": 365,
-     "url": "it/it-stupenda-grazia-di-dio.json"
+     "url": "it/it-stupenda-grazia-di-dio.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_SGD(AG).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-un-appello-per-noi",
@@ -404,7 +578,13 @@
      "isbn": [],
      "paginas": 629,
      "total_dias": 365,
-     "url": "it/it-un-appello-per-noi.json"
+     "url": "it/it-un-appello-per-noi.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_AN(OHC).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-vivere-attraverso-la-fede",
@@ -417,7 +597,13 @@
      "isbn": [],
      "paginas": 676,
      "total_dias": 365,
-     "url": "it/it-vivere-attraverso-la-fede.json"
+     "url": "it/it-vivere-attraverso-la-fede.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_VAF(FLB).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "it-volgi-lo-sguardo-a-gesu",
@@ -430,7 +616,13 @@
      "isbn": [],
      "paginas": 752,
      "total_dias": 365,
-     "url": "it/it-volgi-lo-sguardo-a-gesu.json"
+     "url": "it/it-volgi-lo-sguardo-a-gesu.json",
+     "descarga": "https://media2.egwwritings.org/pdf/it_VG(UL).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     }
    ]
   },
@@ -448,7 +640,13 @@
      "isbn": [],
      "paginas": 400,
      "total_dias": 365,
-     "url": "fr/fr-avec-dieu-chaque-jour.json"
+     "url": "fr/fr-avec-dieu-chaque-jour.json",
+     "descarga": "https://media4.egwwritings.org/pdf/fr_AD(ML).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "fr-levez-vos-yeux-en-haut",
@@ -461,7 +659,13 @@
      "isbn": [],
      "paginas": 397,
      "total_dias": 365,
-     "url": "fr/fr-levez-vos-yeux-en-haut.json"
+     "url": "fr/fr-levez-vos-yeux-en-haut.json",
+     "descarga": "https://media2.egwwritings.org/pdf/fr_LVH(UL).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "fr-pour-mieux-connaitre-jesus-christ",
@@ -474,7 +678,13 @@
      "isbn": [],
      "paginas": 726,
      "total_dias": 365,
-     "url": "fr/fr-pour-mieux-connaitre-jesus-christ.json"
+     "url": "fr/fr-pour-mieux-connaitre-jesus-christ.json",
+     "descarga": "https://media2.egwwritings.org/pdf/fr_PMC(TMK).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "fr-puissance-de-la-grace",
@@ -487,7 +697,13 @@
      "isbn": [],
      "paginas": 390,
      "total_dias": 365,
-     "url": "fr/fr-puissance-de-la-grace.json"
+     "url": "fr/fr-puissance-de-la-grace.json",
+     "descarga": "https://media4.egwwritings.org/pdf/fr_PG(AG).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "fr-vous-recevrez-une-puissance",
@@ -500,7 +716,13 @@
      "isbn": [],
      "paginas": 390,
      "total_dias": 365,
-     "url": "fr/fr-vous-recevrez-une-puissance.json"
+     "url": "fr/fr-vous-recevrez-une-puissance.json",
+     "descarga": "https://m.egwwritings.org/fr/book/2698/info",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     }
    ]
   },
@@ -518,7 +740,13 @@
      "isbn": [],
      "paginas": 388,
      "total_dias": 365,
-     "url": "de/de-christus-ist-sieger.json"
+     "url": "de/de-christus-ist-sieger.json",
+     "descarga": "https://media4.egwwritings.org/pdf/de_CS(CTr).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "de-das-wirken-des-heiligen-geistes",
@@ -531,7 +759,13 @@
      "isbn": [],
      "paginas": 388,
      "total_dias": 365,
-     "url": "de/de-das-wirken-des-heiligen-geistes.json"
+     "url": "de/de-das-wirken-des-heiligen-geistes.json",
+     "descarga": "https://media4.egwwritings.org/pdf/de_WHG(YRP).pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     }
    ]
   },
@@ -549,7 +783,13 @@
      "isbn": [],
      "paginas": 738,
      "total_dias": 365,
-     "url": "pt/pt-e-recebereis-poder.json"
+     "url": "pt/pt-e-recebereis-poder.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/E%20Recebereis%20Poder.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "pt-jesus-meu-modelo",
@@ -562,7 +802,13 @@
      "isbn": [],
      "paginas": 758,
      "total_dias": 365,
-     "url": "pt/pt-jesus-meu-modelo.json"
+     "url": "pt/pt-jesus-meu-modelo.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Jesus%2C%20Meu%20Modelo.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "pt-maranata-o-senhor-vem",
@@ -575,7 +821,13 @@
      "isbn": [],
      "paginas": 767,
      "total_dias": 365,
-     "url": "pt/pt-maranata-o-senhor-vem.json"
+     "url": "pt/pt-maranata-o-senhor-vem.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Maranata%20%E2%80%93%20O%20Senhor%20Vem%21.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "pt-minha-consagracao-hoje",
@@ -588,7 +840,13 @@
      "isbn": [],
      "paginas": 647,
      "total_dias": 365,
-     "url": "pt/pt-minha-consagracao-hoje.json"
+     "url": "pt/pt-minha-consagracao-hoje.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Minha%20Consagra%C3%A7%C3%A3o%20Hoje.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     },
     {
      "id": "pt-olhando-para-o-alto",
@@ -601,7 +859,13 @@
      "isbn": [],
      "paginas": 771,
      "total_dias": 365,
-     "url": "pt/pt-olhando-para-o-alto.json"
+     "url": "pt/pt-olhando-para-o-alto.json",
+     "descarga": "https://ellenwhiteaudio.org/ebooks/pt/ellenwhite/Olhando%20Para%20O%20Alto.pdf",
+     "derechos": [
+      "Ellen G. White Estate, Inc.",
+      "https://ellenwhiteaudio.org/"
+     ],
+     "clave": "meditaciones"
     }
    ]
   }
