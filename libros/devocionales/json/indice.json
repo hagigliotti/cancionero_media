@@ -1,7 +1,7 @@
 {
  "formato": "devocionales-indice",
- "version": 12,
- "actualizado": "2026-10-21T14:34:22",
+ "version": 13,
+ "actualizado": "2026-10-21T14:37:16",
  "idiomas": {
   "es": {
    "nombre": "Español",
@@ -90,9 +90,9 @@
      "url": "en/en-from-the-heart.json"
     },
     {
-     "id": "en-gods-amazing-grace-1973-version-111",
+     "id": "en-gods-amazing-grace",
      "idioma": "en",
-     "titulo": "Gods Amazing Grace (1973) Version 111",
+     "titulo": "Gods Amazing Grace",
      "autor": "Ellen G. White",
      "anio": 1973,
      "editorial": "For more information about the author, publishers, or how you can support this",
@@ -100,7 +100,7 @@
      "isbn": [],
      "paginas": 379,
      "total_dias": 365,
-     "url": "en/en-gods-amazing-grace-1973-version-111.json"
+     "url": "en/en-gods-amazing-grace.json"
     },
     {
      "id": "en-homeward-bound",
@@ -142,9 +142,9 @@
      "url": "en/en-lift-him-up.json"
     },
     {
-     "id": "en-maranatha-1976-version-113",
+     "id": "en-maranatha",
      "idioma": "en",
-     "titulo": "Maranatha (1976) Version 113",
+     "titulo": "Maranatha",
      "autor": "Ellen G. White",
      "anio": 1976,
      "editorial": "For more information about the author, publishers, or how you can support this",
@@ -152,7 +152,7 @@
      "isbn": [],
      "paginas": 381,
      "total_dias": 365,
-     "url": "en/en-maranatha-1976-version-113.json"
+     "url": "en/en-maranatha.json"
     },
     {
      "id": "en-my-life-today",
@@ -181,9 +181,9 @@
      "url": "en/en-our-high-calling.json"
     },
     {
-     "id": "en-reflecting-christ-1985-version-109",
+     "id": "en-reflecting-christ",
      "idioma": "en",
-     "titulo": "Reflecting Christ (1985) Version 109",
+     "titulo": "Reflecting Christ",
      "autor": "Ellen G. White",
      "anio": 1985,
      "editorial": "This ePub publication is provided as a service of the Ellen G. White Estate. It is part",
@@ -191,7 +191,7 @@
      "isbn": [],
      "paginas": 379,
      "total_dias": 365,
-     "url": "en/en-reflecting-christ-1985-version-109.json"
+     "url": "en/en-reflecting-christ.json"
     },
     {
      "id": "en-sons-and-daughters-of-god",
@@ -207,9 +207,9 @@
      "url": "en/en-sons-and-daughters-of-god.json"
     },
     {
-     "id": "en-that-i-may-know-him-1964-version-113",
+     "id": "en-that-i-may-know-him",
      "idioma": "en",
-     "titulo": "That I May Know Him (1964) Version 113",
+     "titulo": "That I May Know Him",
      "autor": "Ellen G. White",
      "anio": 1964,
      "editorial": "Please visit the Ellen G. White Estate website for a complete list of available publications.",
@@ -217,12 +217,12 @@
      "isbn": [],
      "paginas": 377,
      "total_dias": 365,
-     "url": "en/en-that-i-may-know-him-1964-version-113.json"
+     "url": "en/en-that-i-may-know-him.json"
     },
     {
-     "id": "en-this-day-with-god-1979-version-111",
+     "id": "en-this-day-with-god",
      "idioma": "en",
-     "titulo": "This Day With God (1979) Version 111",
+     "titulo": "This Day With God",
      "autor": "Ellen G. White",
      "anio": 1979,
      "editorial": "For more information about the author, publishers, or how you can support",
@@ -230,12 +230,12 @@
      "isbn": [],
      "paginas": 383,
      "total_dias": 365,
-     "url": "en/en-this-day-with-god-1979-version-111.json"
+     "url": "en/en-this-day-with-god.json"
     },
     {
-     "id": "en-ye-shall-receive-power-1995-version-111",
+     "id": "en-ye-shall-receive-power",
      "idioma": "en",
-     "titulo": "Ye Shall Receive Power (1995) Version 111",
+     "titulo": "Ye Shall Receive Power",
      "autor": "Ellen G. White",
      "anio": 1995,
      "editorial": "Please visit the Ellen G. White Estate website for a complete list of available publications.",
@@ -243,7 +243,7 @@
      "isbn": [],
      "paginas": 380,
      "total_dias": 365,
-     "url": "en/en-ye-shall-receive-power-1995-version-111.json"
+     "url": "en/en-ye-shall-receive-power.json"
     }
    ]
   },

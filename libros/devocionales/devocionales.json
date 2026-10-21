@@ -1,7 +1,7 @@
 {
  "formato": "devocionales",
- "version": 12,
- "actualizado": "2026-10-21T14:34:22",
+ "version": 13,
+ "actualizado": "2026-10-21T14:37:16",
  "idiomas": {
   "es": {
    "nombre": "Español",
@@ -17,18 +17,18 @@
    "nombre": "English",
    "libros": [
     "en-from-the-heart",
-    "en-gods-amazing-grace-1973-version-111",
+    "en-gods-amazing-grace",
     "en-homeward-bound",
     "en-in-heavenly-places",
     "en-lift-him-up",
-    "en-maranatha-1976-version-113",
+    "en-maranatha",
     "en-my-life-today",
     "en-our-high-calling",
-    "en-reflecting-christ-1985-version-109",
+    "en-reflecting-christ",
     "en-sons-and-daughters-of-god",
-    "en-that-i-may-know-him-1964-version-113",
-    "en-this-day-with-god-1979-version-111",
-    "en-ye-shall-receive-power-1995-version-111"
+    "en-that-i-may-know-him",
+    "en-this-day-with-god",
+    "en-ye-shall-receive-power"
    ]
   },
   "it": {
@@ -92,7 +92,7 @@
    "total_dias": 365,
    "archivo": "es/Alza tus ojos/Alza tus Ojos.pdf",
    "huella": "f3ca15ce45d28b20d1ca1b5e3bf822e84f6a9eaa",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -8933,7 +8933,7 @@
    "total_dias": 365,
    "archivo": "es/Hijos e Hijas de Dios/Hijos e Hijas de Dios.pdf",
    "huella": "abfb9aa9349acc48be2fcc21337da27d6174210e",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -17012,7 +17012,7 @@
    "total_dias": 365,
    "archivo": "es/Maranata - El Señor Viene/Maranata - El Señor Viene.pdf",
    "huella": "d90b56bd28934b81dedabc75561352efb4275b02",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -25595,7 +25595,7 @@
    "total_dias": 365,
    "archivo": "es/Nuestra Elevada Vocación/Nuestra Elevada Vocación.pdf",
    "huella": "22f2ffbda9c96931a9e69ecf01e94972ab8560e0",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -34122,7 +34122,7 @@
    "total_dias": 365,
    "archivo": "es/Ser Semejante a Jesús/Ser Semejante a Jesús.pdf",
    "huella": "9a185654bd41242e521ac5bf14e6bc961a50e8fc",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -42640,7 +42640,7 @@
    "total_dias": 365,
    "archivo": "en/From the Heart/From the Heart.pdf",
    "huella": "ce576873db1a4ad40be1b979fd136b9e315faccc",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -52029,9 +52029,9 @@
    }
   },
   {
-   "id": "en-gods-amazing-grace-1973-version-111",
+   "id": "en-gods-amazing-grace",
    "idioma": "en",
-   "titulo": "Gods Amazing Grace (1973) Version 111",
+   "titulo": "Gods Amazing Grace",
    "autor": "Ellen G. White",
    "anio": 1973,
    "editorial": "For more information about the author, publishers, or how you can support this",
@@ -52041,7 +52041,7 @@
    "total_dias": 365,
    "archivo": "en/God's Amazing Grace/God's Amazing Grace.pdf",
    "huella": "cb25f56975d56d08ed6e82e342677b42cdf2ae82",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -60763,7 +60763,7 @@
    "total_dias": 365,
    "archivo": "en/Homeward Bound/Homeward Bound.pdf",
    "huella": "a4ef8c2a98af2ac3bc13b94ea50006943c38bd3f",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -69875,7 +69875,7 @@
    "total_dias": 365,
    "archivo": "en/In Heavenly Places/In Heavenly Places.pdf",
    "huella": "0c1e620bbe4bb874a00bed1fa544576fabbba9ea",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -78440,7 +78440,7 @@
    "total_dias": 365,
    "archivo": "en/Lift Him Up/Lift Him Up.pdf",
    "huella": "5c5b66ef83cc828cad2a5abd8e88ea6eaa258148",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -87843,9 +87843,9 @@
    }
   },
   {
-   "id": "en-maranatha-1976-version-113",
+   "id": "en-maranatha",
    "idioma": "en",
-   "titulo": "Maranatha (1976) Version 113",
+   "titulo": "Maranatha",
    "autor": "Ellen G. White",
    "anio": 1976,
    "editorial": "For more information about the author, publishers, or how you can support this",
@@ -87855,7 +87855,7 @@
    "total_dias": 365,
    "archivo": "en/Maranatha/Maranatha.pdf",
    "huella": "0e78ec2a60acdd917de0cbe2eb21dcd44adc4111",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -96614,7 +96614,7 @@
    "total_dias": 365,
    "archivo": "en/My Life Today/My Life Today.pdf",
    "huella": "022c022af64694e42241a2e6668f71cd509a044d",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -105459,7 +105459,7 @@
    "total_dias": 365,
    "archivo": "en/Our High Calling/Our High Calling.pdf",
    "huella": "39acfa252bce9bb006677ee59ba36186ea421b42",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -114258,9 +114258,9 @@
    }
   },
   {
-   "id": "en-reflecting-christ-1985-version-109",
+   "id": "en-reflecting-christ",
    "idioma": "en",
-   "titulo": "Reflecting Christ (1985) Version 109",
+   "titulo": "Reflecting Christ",
    "autor": "Ellen G. White",
    "anio": 1985,
    "editorial": "This ePub publication is provided as a service of the Ellen G. White Estate. It is part",
@@ -114270,7 +114270,7 @@
    "total_dias": 365,
    "archivo": "en/Reflecting Christ/Reflecting Christ.pdf",
    "huella": "b5ebe80c7601b32b804402e94d1c03a969ae60f7",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -123386,7 +123386,7 @@
    "total_dias": 365,
    "archivo": "en/Sons and Daughters of God/Sons and Daughters of God.pdf",
    "huella": "a373591f880460e62b08dee40267ab49ff07fba7",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -133916,9 +133916,9 @@
    }
   },
   {
-   "id": "en-that-i-may-know-him-1964-version-113",
+   "id": "en-that-i-may-know-him",
    "idioma": "en",
-   "titulo": "That I May Know Him (1964) Version 113",
+   "titulo": "That I May Know Him",
    "autor": "Ellen G. White",
    "anio": 1964,
    "editorial": "Please visit the Ellen G. White Estate website for a complete list of available publications.",
@@ -133928,7 +133928,7 @@
    "total_dias": 365,
    "archivo": "en/That I May Know Him/That I May Know Him.pdf",
    "huella": "df6ec26e7f74f9293a77b012763df11e9b28d819",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -142966,9 +142966,9 @@
    }
   },
   {
-   "id": "en-this-day-with-god-1979-version-111",
+   "id": "en-this-day-with-god",
    "idioma": "en",
-   "titulo": "This Day With God (1979) Version 111",
+   "titulo": "This Day With God",
    "autor": "Ellen G. White",
    "anio": 1979,
    "editorial": "For more information about the author, publishers, or how you can support",
@@ -142978,7 +142978,7 @@
    "total_dias": 365,
    "archivo": "en/This Day With God/This Day With God.pdf",
    "huella": "af4c274c31174d1cea67166a75cf97f6b61bab5b",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -151785,9 +151785,9 @@
    }
   },
   {
-   "id": "en-ye-shall-receive-power-1995-version-111",
+   "id": "en-ye-shall-receive-power",
    "idioma": "en",
-   "titulo": "Ye Shall Receive Power (1995) Version 111",
+   "titulo": "Ye Shall Receive Power",
    "autor": "Ellen G. White",
    "anio": 1995,
    "editorial": "Please visit the Ellen G. White Estate website for a complete list of available publications.",
@@ -151797,7 +151797,7 @@
    "total_dias": 365,
    "archivo": "en/Ye Shall Receive Power/Ye Shall Receive Power.pdf",
    "huella": "8c7f8df82ce9d1858095111a6df06c0bdded1afd",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -160419,7 +160419,7 @@
    "total_dias": 365,
    "archivo": "it/Come Conoscere Meglio Il Signore/Come Conoscere Meglio Il Signore.pdf",
    "huella": "c316a3068bd049d16350cfaa8399ebeae2a2996c",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -168784,7 +168784,7 @@
    "total_dias": 365,
    "archivo": "it/Con Dio Fino All’ultimo Giorno/Con Dio Fino All’ultimo Giorno.pdf",
    "huella": "5bd2e20d008ad87aa34ca8ad912de05a4e850ea3",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -177083,7 +177083,7 @@
    "total_dias": 365,
    "archivo": "it/Con Tutto Il Cuore/Con Tutto Il Cuore.pdf",
    "huella": "fa33b5aca69e6feee18b4ce6b3a3a58e3d8f6c1c",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -184860,7 +184860,7 @@
    "total_dias": 365,
    "archivo": "it/Conflitto E Coraggio/Conflitto E Coraggio.pdf",
    "huella": "4e51704ff0cf75e2c60a767d42ff2b6fe4d4c360",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -193296,7 +193296,7 @@
    "total_dias": 364,
    "archivo": "it/Contemplare La Vita Di Cristo/Contemplare La Vita Di Cristo.pdf",
    "huella": "0eef5fed67b913704aded8e373930f288764e8fa",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -202931,7 +202931,7 @@
    "total_dias": 365,
    "archivo": "it/La mia vita oggi/La mia vita oggi.pdf",
    "huella": "60ec8c01258d52dd4109dc1d47c0296e2c054487",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -211506,7 +211506,7 @@
    "total_dias": 365,
    "archivo": "it/La Vittoria Di Cristo/La Vittoria Di Cristo.pdf",
    "huella": "1201f4728d98e1ca88e203e28dba22c6b791f983",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -220111,7 +220111,7 @@
    "total_dias": 365,
    "archivo": "it/Maranatha/Maranatha.pdf",
    "huella": "6be1b299911572e4a499c86295abc797b1cc29e7",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -228804,7 +228804,7 @@
    "total_dias": 365,
    "archivo": "it/Nei Luoghi Celesti/Nei Luoghi Celesti.pdf",
    "huella": "d7d47c1fdcf83f754eeed1286ff5cbfc55c3ffa0",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -237168,7 +237168,7 @@
    "total_dias": 365,
    "archivo": "it/Ricevere La Potenza Di Dio/Ricevere La Potenza Di Dio.pdf",
    "huella": "f803248851dc7c2f05216f48afb72cc70ddc86c4",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -245309,7 +245309,7 @@
    "total_dias": 365,
    "archivo": "it/Stupenda Grazia Di Dio/Stupenda Grazia Di Dio.pdf",
    "huella": "bd1f418950b75b94927267359883f3ea8064537f",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -254448,7 +254448,7 @@
    "total_dias": 365,
    "archivo": "it/Un Appello Per Noi/Un Appello Per Noi.pdf",
    "huella": "72a033bf10d50799c20efdee0d91467a77baf7e9",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -262682,7 +262682,7 @@
    "total_dias": 365,
    "archivo": "it/Vivere Attraverso La Fede/Vivere Attraverso La Fede.pdf",
    "huella": "a5ab11f416196c02ac5d91507981053bd200cf77",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -271463,7 +271463,7 @@
    "total_dias": 365,
    "archivo": "it/Volgi lo sguardo a Gesù/Volgi lo sguardo a Gesù.pdf",
    "huella": "40b363fe849c24abc2fe4ff70216e7c97b1ede07",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -280423,7 +280423,7 @@
    "total_dias": 365,
    "archivo": "fr/Avec Dieu chaque jour/Avec Dieu chaque jour.pdf",
    "huella": "d53153659f96bbce63de1c037499d98ba898ade5",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -290395,7 +290395,7 @@
    "total_dias": 365,
    "archivo": "fr/Levez vos yeux en haut/Levez vos yeux en haut.pdf",
    "huella": "12588be4d37fe1c8eb73471ee72c241acf02f247",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -299406,7 +299406,7 @@
    "total_dias": 365,
    "archivo": "fr/Pour mieux connaître Jésus-Christ/Pour mieux connaître Jésus-Christ.pdf",
    "huella": "9ec9445a596b351c7b25e18c7aa9ae5bdb96c11e",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -308036,7 +308036,7 @@
    "total_dias": 365,
    "archivo": "fr/Puissance de la Grâce/Puissance de la Grâce.pdf",
    "huella": "d6ef200e04805a5dcfb642ad080451d70da51d8e",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -317889,7 +317889,7 @@
    "total_dias": 365,
    "archivo": "fr/Vous recevrez une Puissance/Vous recevrez une Puissance.pdf",
    "huella": "7b67f6ba8d814ff6e69a7ad6dc7d191abcdfddb3",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -326096,7 +326096,7 @@
    "total_dias": 365,
    "archivo": "de/Christus ist Sieger/Christus ist Sieger.pdf",
    "huella": "c6e072523a4c0e2d42a84774e2751a710f8f14e7",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -334684,7 +334684,7 @@
    "total_dias": 365,
    "archivo": "de/Das Wirken des Heiligen Geistes/Das Wirken des Heiligen Geistes.pdf",
    "huella": "9f479c71b566ae4c34ac231cfbcc50a21b0919a0",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -343006,7 +343006,7 @@
    "total_dias": 365,
    "archivo": "pt/E Recebereis Poder/E Recebereis Poder.pdf",
    "huella": "d9142f18563c3fb0e4db1c2d508c6447dbd8dfcc",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -351576,7 +351576,7 @@
    "total_dias": 365,
    "archivo": "pt/Jesus, Meu Modelo/Jesus, Meu Modelo.pdf",
    "huella": "4473711653a0ea40378a12171cf8ae4df125ee83",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -360746,7 +360746,7 @@
    "total_dias": 365,
    "archivo": "pt/Maranata — O Senhor Vem!/Maranata — O Senhor Vem!.pdf",
    "huella": "e5203626959650e5bbae41f52437bbf0422f40f8",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -369958,7 +369958,7 @@
    "total_dias": 365,
    "archivo": "pt/Minha Consagração Hoje/Minha Consagração Hoje.pdf",
    "huella": "dbf881320f615a3510902e40969fe7e050fa8582",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
@@ -378733,7 +378733,7 @@
    "total_dias": 365,
    "archivo": "pt/Olhando para o Alto/Olhando para o Alto.pdf",
    "huella": "7bdb310d91e205f751c308cb742e692ca1bac6a6",
-   "procesado_con": 12,
+   "procesado_con": 13,
    "agregado": "2026-10-21",
    "dias": {
     "01-01": {
