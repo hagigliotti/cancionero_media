@@ -44,4 +44,5 @@ Textos de dominio público, convertidos con `biblia_a_json.py` desde
 - `versiones.json`: todas las versiones (id, idioma, licencia, ruta y capítulos por libro).
 - Las versiones principales están en `<idioma>/<n>.json`; las demás en `v/<id>/<n>.json`.
 - `biblias_extra.py` + `diodati.py` generan las versiones extra (fuentes: seven1m/open-bibles, scrollmapper/bible_databases, wldeh/bible-api).
+- Platense, World English Bible, Douay-Rheims, Crampon y Menge traen además los 7 libros deuterocanónicos (67 Tobías … 73 2 Macabeos).
 - Douay-Rheims y Platense numeran los Salmos como la Vulgata (Salmo 23 = 22).

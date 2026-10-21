@@ -67,7 +67,19 @@ BDB_NOMBRES = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Josh
                "Luke", "John", "Acts", "Romans", "I Corinthians", "II Corinthians", "Galatians", "Ephesians", "Philippians",
                "Colossians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy", "Titus", "Philemon", "Hebrews",
                "James", "I Peter", "II Peter", "I John", "II John", "III John", "Jude", "Revelation of John"]
-BDB_ALIAS = {"Revelation": 66, "Song of Songs": 22, "Canticles": 22, "Psalm": 19}
+BDB_ALIAS = {"Revelation": 66, "Song of Songs": 22, "Canticles": 22, "Psalm": 19,
+             # deuterocanónicos (67-73), solo en las versiones que los traen
+             "Tobit": 67, "Judith": 68, "Wisdom": 69, "Sirach": 70, "Baruch": 71, "I Maccabees": 72, "II Maccabees": 73}
+USFX_DEUTERO = {"TOB": 67, "JDT": 68, "WIS": 69, "SIR": 70, "BAR": 71, "1MA": 72, "2MA": 73}
+TOTAL_LIBROS = 73
+DEUTERO_NOMBRES = {
+    "es": ["Tobías", "Judit", "Sabiduría", "Eclesiástico", "Baruc", "1 Macabeos", "2 Macabeos"],
+    "en": ["Tobit", "Judith", "Wisdom", "Sirach", "Baruch", "1 Maccabees", "2 Maccabees"],
+    "it": ["Tobia", "Giuditta", "Sapienza", "Siracide", "Baruc", "1 Maccabei", "2 Maccabei"],
+    "fr": ["Tobie", "Judith", "Sagesse", "Siracide", "Baruch", "1 Maccabées", "2 Maccabées"],
+    "de": ["Tobit", "Judit", "Weisheit", "Jesus Sirach", "Baruch", "1. Makkabäer", "2. Makkabäer"],
+    "pt": ["Tobias", "Judite", "Sabedoria", "Eclesiástico", "Baruque", "1 Macabeus", "2 Macabeus"],
+}
 
 DIODATI_LIBROS = ("genesi esodo levitico numeri deuteronomio giosuè giudici rut isamuele iisamuele ire iire icroniche iicroniche "
                   "esdra neemia ester giobbe salmi proverbi ecclesiaste canticodei~cantici isaia geremia lamentazioni ezechiele "
@@ -92,9 +104,9 @@ def limpiar(t):
 def leer_usfx2(s):
     out = {}
     for mb in re.finditer(r'<book id="(\w+)">(.*?)</book>', s, re.S):
-        if mb.group(1) not in USFX:
+        if mb.group(1) not in USFX and mb.group(1) not in USFX_DEUTERO:
             continue
-        n = USFX.index(mb.group(1)) + 1
+        n = USFX.index(mb.group(1)) + 1 if mb.group(1) in USFX else USFX_DEUTERO[mb.group(1)]
         cuerpo = re.sub(r"<(h|toc|id|s|ms|mt|d|r|f|x|fe|note|rem|ide)\b[^>]*>.*?</\1>", "", mb.group(2), flags=re.S)
         cuerpo = re.sub(r"<(?:id|toc|h|s|d|r)\b[^>]*/>", "", cuerpo)
         cap, vers = 0, None
@@ -164,12 +176,13 @@ def a_caps(b):
 def main(destino):
     lista = []
     for vid, lang, sigla, nombre, anio, lic, cred, tipo, origen in VERSIONES:
-        nombres = NOMBRES[lang].split("|")
+        nombres = NOMBRES[lang].split("|") + DEUTERO_NOMBRES[lang]
         if tipo == "principal":
             caps = []
             for n in range(1, 67):
                 d = json.load(open(os.path.join(destino, origen, f"{n}.json"), encoding="utf-8"))
                 caps.append(len(d["caps"]))
+            caps += [0] * (TOTAL_LIBROS - 66)
             ruta = origen
         else:
             if tipo == "bdb":
@@ -187,19 +200,27 @@ def main(destino):
             ruta = f"v/{vid}"
             os.makedirs(os.path.join(destino, ruta), exist_ok=True)
             caps = []
-            for n in range(1, 67):
+            for n in range(1, TOTAL_LIBROS + 1):
                 cc = a_caps(datos.get(n, {}))
                 caps.append(len(cc))
                 if cc:
                     with open(os.path.join(destino, ruta, f"{n}.json"), "w", encoding="utf-8") as fo:
                         json.dump({"n": n, "nombre": nombres[n - 1], "caps": cc}, fo, ensure_ascii=False, separators=(",", ":"))
         faltan = [n for n in range(1, 67) if not caps[n - 1]]
+        deutero = sum(1 for n in range(67, TOTAL_LIBROS + 1) if caps[n - 1])
         versos = 0
         if tipo != "principal":
             versos = sum(1 for b in datos.values() for c in b.values() for v in c.values() if v)
-        print(f"{vid:12} {lang} libros: {66 - len(faltan):2}  versículos: {versos:6}  faltan: {faltan[:10]}{'…' if len(faltan) > 10 else ''}")
+        print(f"{vid:12} {lang} deutero: {deutero} libros: {66 - len(faltan):2}  versículos: {versos:6}  faltan: {faltan[:10]}{'…' if len(faltan) > 10 else ''}")
         lista.append({"id": vid, "idioma": lang, "sigla": sigla, "nombre": nombre, "anio": anio, "licencia": lic,
                       "credito": cred, "ruta": ruta, "capitulos": caps})
+    # nombres de los 73 libros por idioma en el índice general (lo usa la app)
+    ip = os.path.join(destino, "indice.json")
+    ind = json.load(open(ip, encoding="utf-8"))
+    for lang in ind["libros"]:
+        ind["libros"][lang] = NOMBRES[lang].split("|") + DEUTERO_NOMBRES[lang]
+    with open(ip, "w", encoding="utf-8") as fo:
+        json.dump(ind, fo, ensure_ascii=False, separators=(",", ":"))
     with open(os.path.join(destino, "versiones.json"), "w", encoding="utf-8") as fo:
         json.dump({"versiones": lista}, fo, ensure_ascii=False, separators=(",", ":"))
 
